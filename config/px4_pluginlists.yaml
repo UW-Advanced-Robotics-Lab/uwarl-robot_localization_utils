@@ -14,6 +14,18 @@ plugin_blacklist:
 - safety_area
 - local_position
 - 3dr_radio
+- home_position
+- vision_speed_estimated
+- global_position
+- mocap_fake_gps
+- rc_io
+- mocap_pose_estimate
+- manual_control
+- setpoint_raw
+- setpoint_velocity
+- sys_status
+- sys_time
+- waypoint
 
 plugin_whitelist: []
 #- 'sys_*'
